@@ -1,8 +1,10 @@
 # Anthology of Chinese Folk Songs (v251103)
 
+This repository is part of the paper “The Renaissance of Expert Systems: Optical Recognition of Printed Chinese Jianpu Musical Scores with Lyrics” (CSMT 2025, accepted). The OMR pipeline used to build this dataset is at [Renaissance of Expert Systems Jianpu OMR Pipeline (v251103)](https://github.com/m-july/Renaissance-of-Expert-Systems-Jianpu-OMR-Pipeline-v251103).
+
 ## Content
 
-This dataset contains 8,659 songs from 11 volumes of the _Anthology of Chinese Folk Songs_. The dataset is divided into two subsets:
+This dataset contains 8,659 songs from 11 volumes of the _Anthology of Chinese Folk Songs_(《中国民间歌曲集成》). The dataset is divided into two subsets:
 
 - **Lyrics-included subset** all pieces from Volume _Jiangsu I & II_ and _Guangdong_, with a total of 2,498 songs.
 
@@ -49,7 +51,7 @@ This issue will be addressed in the next version of the dataset.
 
 ## Important Note
 
-Original scanned will not be made available to the public since they are copyrighted works.
+Original scanned images will not be made available to the public since they are copyrighted works.
 
 ## Other Archived Versions
 
