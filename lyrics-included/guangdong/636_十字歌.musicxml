@@ -1,0 +1,1899 @@
+<?xml version='1.0' encoding='utf-8'?>
+<score-partwise version="3.1">
+  <work>
+    <work-title>页面_song_636</work-title>
+  </work>
+  <part-list>
+    <score-part id="P1">
+      <part-name>简谱旋律</part-name>
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes>
+        <divisions>4</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>一</text>
+        </lyric>
+        <lyric number="2">
+          <text>二</text>
+        </lyric>
+        <lyric number="3">
+          <text>三</text>
+        </lyric>
+        <lyric number="4">
+          <text>四</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>字</text>
+        </lyric>
+        <lyric number="2">
+          <text>字</text>
+        </lyric>
+        <lyric number="3">
+          <text>字</text>
+        </lyric>
+        <lyric number="4">
+          <text>字</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>写</text>
+        </lyric>
+        <lyric number="2">
+          <text>写</text>
+        </lyric>
+        <lyric number="3">
+          <text>写</text>
+        </lyric>
+        <lyric number="4">
+          <text>写</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>来</text>
+        </lyric>
+        <lyric number="2">
+          <text>来</text>
+        </lyric>
+        <lyric number="3">
+          <text>来</text>
+        </lyric>
+        <lyric number="4">
+          <text>来</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>一</text>
+        </lyric>
+        <lyric number="2">
+          <text>隔</text>
+        </lyric>
+        <lyric number="3">
+          <text>迭</text>
+        </lyric>
+        <lyric number="4">
+          <text>nan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>条</text>
+        </lyric>
+        <lyric number="2">
+          <text>条</text>
+        </lyric>
+        <lyric number="3">
+          <text>迭</text>
+        </lyric>
+        <lyric number="4">
+          <text>角</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>龙</text>
+        </lyric>
+        <lyric number="2">
+          <text>河</text>
+        </lyric>
+        <lyric number="3">
+          <text>上</text>
+        </lyric>
+        <lyric number="4">
+          <text>方</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>啰</text>
+        </lyric>
+        <lyric number="2">
+          <text>啰</text>
+        </lyric>
+        <lyric number="3">
+          <text>楼</text>
+        </lyric>
+        <lyric number="4">
+          <text>啰</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="2">
+      <attributes>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <dot />
+        <lyric number="1">
+          <text>台</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>金</text>
+        </lyric>
+        <lyric number="2">
+          <text>金</text>
+        </lyric>
+        <lyric number="3">
+          <text>金</text>
+        </lyric>
+        <lyric number="4">
+          <text>金</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>牡</text>
+        </lyric>
+        <lyric number="2">
+          <text>牡</text>
+        </lyric>
+        <lyric number="3">
+          <text>牡</text>
+        </lyric>
+        <lyric number="4">
+          <text>牡</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+        <lyric number="1">
+          <text>丹</text>
+        </lyric>
+        <lyric number="2">
+          <text>丹</text>
+        </lyric>
+        <lyric number="3">
+          <text>丹</text>
+        </lyric>
+        <lyric number="4">
+          <text>丹</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+        <lyric number="1">
+          <text>啰</text>
+        </lyric>
+        <lyric number="2">
+          <text>啰</text>
+        </lyric>
+        <lyric number="3">
+          <text>啰</text>
+        </lyric>
+        <lyric number="4">
+          <text>啰</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="3">
+      <attributes>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>手</text>
+        </lyric>
+        <lyric number="2">
+          <text>朝</text>
+        </lyric>
+        <lyric number="3">
+          <text>仙</text>
+        </lyric>
+        <lyric number="4">
+          <text>游</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>拿</text>
+        </lyric>
+        <lyric number="2">
+          <text>中</text>
+        </lyric>
+        <lyric number="3">
+          <text>姬</text>
+        </lyric>
+        <lyric number="4">
+          <text>山</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>长</text>
+        </lyric>
+        <lyric number="2">
+          <text>有</text>
+        </lyric>
+        <lyric number="3">
+          <text>送</text>
+        </lyric>
+        <lyric number="4">
+          <text>打</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>枪</text>
+        </lyric>
+        <lyric number="2">
+          <text>个</text>
+        </lyric>
+        <lyric number="3">
+          <text>子</text>
+        </lyric>
+        <lyric number="4">
+          <text>猎</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>赵</text>
+        </lyric>
+        <lyric number="2">
+          <text>扬</text>
+        </lyric>
+        <lyric number="3">
+          <text>下</text>
+        </lyric>
+        <lyric number="4">
+          <text>咬</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>子</text>
+        </lyric>
+        <lyric number="2">
+          <text>令</text>
+        </lyric>
+        <lyric number="3">
+          <text>凡</text>
+        </lyric>
+        <lyric number="4">
+          <text>脐</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>龙</text>
+        </lyric>
+        <lyric number="2">
+          <text>婆</text>
+        </lyric>
+        <lyric number="3">
+          <text>来</text>
+        </lyric>
+        <lyric number="4">
+          <text>郎</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+        <lyric number="1">
+          <text>啰</text>
+        </lyric>
+        <lyric number="2">
+          <text>啰</text>
+        </lyric>
+        <lyric number="3">
+          <text>啰</text>
+        </lyric>
+        <lyric number="4">
+          <text>啰</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+      </note>
+    </measure>
+    <measure number="4">
+      <attributes>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>牡</text>
+        </lyric>
+        <lyric number="2">
+          <text>牡</text>
+        </lyric>
+        <lyric number="3">
+          <text>牡</text>
+        </lyric>
+        <lyric number="4">
+          <text>牡</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>丹</text>
+        </lyric>
+        <lyric number="2">
+          <text>丹</text>
+        </lyric>
+        <lyric number="3">
+          <text>丹</text>
+        </lyric>
+        <lyric number="4">
+          <text>丹</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+        <lyric number="1">
+          <text>花</text>
+        </lyric>
+        <lyric number="2">
+          <text>花</text>
+        </lyric>
+        <lyric number="3">
+          <text>花</text>
+        </lyric>
+        <lyric number="4">
+          <text>花</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>8</duration>
+        <type>half</type>
+        <lyric number="1">
+          <text>啰</text>
+        </lyric>
+        <lyric number="2">
+          <text>啰</text>
+        </lyric>
+        <lyric number="3">
+          <text>啰</text>
+        </lyric>
+        <lyric number="4">
+          <text>啰</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="5">
+      <attributes>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>单</text>
+        </lyric>
+        <lyric number="2">
+          <text>令</text>
+        </lyric>
+        <lyric number="3">
+          <text>仙</text>
+        </lyric>
+        <lyric number="4">
+          <text>朝</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>人</text>
+        </lyric>
+        <lyric number="2">
+          <text>公</text>
+        </lyric>
+        <lyric number="3">
+          <text>姬</text>
+        </lyric>
+        <lyric number="4">
+          <text>上</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>匹</text>
+        </lyric>
+        <lyric number="2">
+          <text>令</text>
+        </lyric>
+        <lyric number="3">
+          <text>送</text>
+        </lyric>
+        <lyric number="4">
+          <text>做</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>马</text>
+        </lyric>
+        <lyric number="2">
+          <text>婆</text>
+        </lyric>
+        <lyric number="3">
+          <text>子</text>
+        </lyric>
+        <lyric number="4">
+          <text>官</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>救</text>
+        </lyric>
+        <lyric number="2">
+          <text>长</text>
+        </lyric>
+        <lyric number="3">
+          <text>到</text>
+        </lyric>
+        <lyric number="4">
+          <text>刘</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>阿</text>
+        </lyric>
+        <lyric number="2">
+          <text>长</text>
+        </lyric>
+        <lyric number="3">
+          <text>你</text>
+        </lyric>
+        <lyric number="4">
+          <text>智</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>斗</text>
+        </lyric>
+        <lyric number="2">
+          <text>久</text>
+        </lyric>
+        <lyric number="3">
+          <text>屋</text>
+        </lyric>
+        <lyric number="4">
+          <text>远</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>啊</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="6">
+      <attributes>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>金</text>
+        </lyric>
+        <lyric number="2">
+          <text>金</text>
+        </lyric>
+        <lyric number="3">
+          <text>金</text>
+        </lyric>
+        <lyric number="4">
+          <text>金</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>牡</text>
+        </lyric>
+        <lyric number="2">
+          <text>牡</text>
+        </lyric>
+        <lyric number="3">
+          <text>牡</text>
+        </lyric>
+        <lyric number="4">
+          <text>牡</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+        <lyric number="1">
+          <text>丹</text>
+        </lyric>
+        <lyric number="2">
+          <text>丹</text>
+        </lyric>
+        <lyric number="3">
+          <text>丹</text>
+        </lyric>
+        <lyric number="4">
+          <text>丹</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+        <lyric number="1">
+          <text>哪</text>
+        </lyric>
+        <lyric number="2">
+          <text>哪</text>
+        </lyric>
+        <lyric number="3">
+          <text>哪</text>
+        </lyric>
+        <lyric number="4">
+          <text>哪</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="7">
+      <attributes>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>万</text>
+        </lyric>
+        <lyric number="2">
+          <text>六</text>
+        </lyric>
+        <lyric number="3">
+          <text>先</text>
+        </lyric>
+        <lyric number="4">
+          <text>房</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>人</text>
+        </lyric>
+        <lyric number="2">
+          <text>十</text>
+        </lyric>
+        <lyric number="3">
+          <text>进</text>
+        </lyric>
+        <lyric number="4">
+          <text>中</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>头</text>
+        </lyric>
+        <lyric number="2">
+          <text>花</text>
+        </lyric>
+        <lyric number="3">
+          <text>人</text>
+        </lyric>
+        <lyric number="4">
+          <text>推</text>
+        </lyric>
+        <lyric number="5">
+          <text>nan</text>
+        </lyric>
+        <lyric number="6">
+          <text>nan</text>
+        </lyric>
+        <lyric number="7">
+          <text>nan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>甲</text>
+        </lyric>
+        <lyric number="2">
+          <text>丁</text>
+        </lyric>
+        <lyric number="3">
+          <text>磨</text>
+        </lyric>
+        <lyric number="4">
+          <text>五</text>
+        </lyric>
+        <lyric number="5">
+          <text>仁</text>
+        </lyric>
+        <lyric number="6">
+          <text>仁</text>
+        </lyric>
+        <lyric number="7">
+          <text>洋</text>
+        </lyric>
+        <lyric number="8">
+          <text>六</text>
+        </lyric>
+        <lyric number="9">
+          <text>把</text>
+        </lyric>
+        <lyric number="10">
+          <text>杀</text>
+        </lyric>
+        <lyric number="11">
+          <text>烧</text>
+        </lyric>
+        <lyric number="12">
+          <text>九</text>
+        </lyric>
+        <lyric number="13">
+          <text>救</text>
+        </lyric>
+        <lyric number="14">
+          <text>观</text>
+        </lyric>
+        <lyric number="15">
+          <text>转</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>都</text>
+        </lyric>
+        <lyric number="2">
+          <text>字写</text>
+        </lyric>
+        <lyric number="3">
+          <text>贵投</text>
+        </lyric>
+        <lyric number="4">
+          <text>贵食</text>
+        </lyric>
+        <lyric number="5">
+          <text>船弟</text>
+        </lyric>
+        <lyric number="6">
+          <text>字写</text>
+        </lyric>
+        <lyric number="7">
+          <text>守三</text>
+        </lyric>
+        <lyric number="8">
+          <text>敌救</text>
+        </lyric>
+        <lyric number="9">
+          <text>nan救</text>
+        </lyric>
+        <lyric number="10">
+          <text>字</text>
+        </lyric>
+        <lyric number="11">
+          <text>苦</text>
+        </lyric>
+        <lyric number="12">
+          <text>音</text>
+        </lyric>
+        <lyric number="13">
+          <text>来</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>逞</text>
+        </lyric>
+        <lyric number="2">
+          <text>笑</text>
+        </lyric>
+        <lyric number="3">
+          <text>后</text>
+        </lyric>
+        <lyric number="4">
+          <text>李</text>
+        </lyric>
+        <lyric number="5">
+          <text>来</text>
+        </lyric>
+        <lyric number="6">
+          <text>军</text>
+        </lyric>
+        <lyric number="7">
+          <text>粮</text>
+        </lyric>
+        <lyric number="8">
+          <text>子</text>
+        </lyric>
+        <lyric number="9">
+          <text>来</text>
+        </lyric>
+        <lyric number="10">
+          <text>关</text>
+        </lyric>
+        <lyric number="11">
+          <text>火</text>
+        </lyric>
+        <lyric number="12">
+          <text>民</text>
+        </lyric>
+        <lyric number="13">
+          <text>写来</text>
+        </lyric>
+        <lyric number="14">
+          <text>救难</text>
+        </lyric>
+        <lyric number="15">
+          <text>娘娘</text>
+        </lyric>
+        <lyric number="16">
+          <text>南海</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>英</text>
+        </lyric>
+        <lyric number="2">
+          <text>呵</text>
+        </lyric>
+        <lyric number="3">
+          <text>迸</text>
+        </lyric>
+        <lyric number="4">
+          <text>三</text>
+        </lyric>
+        <lyric number="5">
+          <text>闹</text>
+        </lyric>
+        <lyric number="6">
+          <text>去</text>
+        </lyric>
+        <lyric number="7">
+          <text>佢</text>
+        </lyric>
+        <lyric number="8">
+          <text>去</text>
+        </lyric>
+        <lyric number="9">
+          <text>三</text>
+        </lyric>
+        <lyric number="10">
+          <text>杨</text>
+        </lyric>
+        <lyric number="11">
+          <text>焦</text>
+        </lyric>
+        <lyric number="12">
+          <text>是</text>
+        </lyric>
+        <lyric number="13">
+          <text>一</text>
+        </lyric>
+        <lyric number="14">
+          <text>观</text>
+        </lyric>
+        <lyric number="15">
+          <text>学</text>
+        </lyric>
+        <lyric number="16">
+          <text>岸</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>雄</text>
+        </lyric>
+        <lyric number="2">
+          <text>呵</text>
+        </lyric>
+        <lyric number="3">
+          <text>财</text>
+        </lyric>
+        <lyric number="4">
+          <text>娘</text>
+        </lyric>
+        <lyric number="5">
+          <text>洋</text>
+        </lyric>
+        <lyric number="6">
+          <text>食</text>
+        </lyric>
+        <lyric number="7">
+          <text>防</text>
+        </lyric>
+        <lyric number="8">
+          <text>征</text>
+        </lyric>
+        <lyric number="9">
+          <text>点一</text>
+        </lyric>
+        <lyric number="10">
+          <text>六nan郎</text>
+        </lyric>
+        <lyric number="11">
+          <text>公</text>
+        </lyric>
+        <lyric number="12">
+          <text>孟</text>
+        </lyric>
+        <lyric number="13">
+          <text>横</text>
+        </lyric>
+        <lyric number="14">
+          <text>音</text>
+        </lyric>
+        <lyric number="15">
+          <text>法</text>
+        </lyric>
+        <lyric number="16">
+          <text>边</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+        <lyric number="1">
+          <text>啰</text>
+        </lyric>
+        <lyric number="2">
+          <text>啰</text>
+        </lyric>
+        <lyric number="3">
+          <text>啰</text>
+        </lyric>
+        <lyric number="4">
+          <text>啰</text>
+        </lyric>
+        <lyric number="5">
+          <text>洋</text>
+        </lyric>
+        <lyric number="6">
+          <text>粮</text>
+        </lyric>
+        <lyric number="7">
+          <text>关</text>
+        </lyric>
+        <lyric number="8">
+          <text>番</text>
+        </lyric>
+        <lyric number="9">
+          <text>横</text>
+        </lyric>
+        <lyric number="10">
+          <text>nan</text>
+        </lyric>
+        <lyric number="11">
+          <text>赞</text>
+        </lyric>
+        <lyric number="12">
+          <text>良</text>
+        </lyric>
+        <lyric number="13">
+          <text>一勾</text>
+        </lyric>
+        <lyric number="14">
+          <text>娘</text>
+        </lyric>
+        <lyric number="15">
+          <text>转</text>
+        </lyric>
+        <lyric number="16">
+          <text>做庙</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>长</text>
+        </lyric>
+        <lyric number="2">
+          <text>长</text>
+        </lyric>
+        <lyric number="3">
+          <text>堂</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+      </note>
+    </measure>
+    <measure number="8">
+      <attributes>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>牡</text>
+        </lyric>
+        <lyric number="2">
+          <text>牡</text>
+        </lyric>
+        <lyric number="3">
+          <text>牡</text>
+        </lyric>
+        <lyric number="4">
+          <text>牡</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>丹</text>
+        </lyric>
+        <lyric number="2">
+          <text>丹</text>
+        </lyric>
+        <lyric number="3">
+          <text>丹</text>
+        </lyric>
+        <lyric number="4">
+          <text>丹</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+        <lyric number="1">
+          <text>花</text>
+        </lyric>
+        <lyric number="2">
+          <text>花</text>
+        </lyric>
+        <lyric number="3">
+          <text>花</text>
+        </lyric>
+        <lyric number="4">
+          <text>花</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>咿</text>
+        </lyric>
+        <lyric number="2">
+          <text>咿</text>
+        </lyric>
+        <lyric number="3">
+          <text>咿</text>
+        </lyric>
+        <lyric number="4">
+          <text>咿</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>呀</text>
+        </lyric>
+        <lyric number="2">
+          <text>呀</text>
+        </lyric>
+        <lyric number="3">
+          <text>呀</text>
+        </lyric>
+        <lyric number="4">
+          <text>呀</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>嘟</text>
+        </lyric>
+        <lyric number="2">
+          <text>嘟</text>
+        </lyric>
+        <lyric number="3">
+          <text>嘟</text>
+        </lyric>
+        <lyric number="4">
+          <text>嘟</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>4</duration>
+        <type>quarter</type>
+        <lyric number="1">
+          <text>咿</text>
+        </lyric>
+        <lyric number="2">
+          <text>咿</text>
+        </lyric>
+        <lyric number="3">
+          <text>咿</text>
+        </lyric>
+        <lyric number="4">
+          <text>咿</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="9">
+      <attributes>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <dot />
+        <lyric number="1">
+          <text>一</text>
+        </lyric>
+        <lyric number="2">
+          <text>一</text>
+        </lyric>
+        <lyric number="3">
+          <text>一</text>
+        </lyric>
+        <lyric number="4">
+          <text>一</text>
+        </lyric>
+        <lyric number="5">
+          <text>[未击中:[未击中:[未击中:[未击中:乙]]]]</text>
+        </lyric>
+        <lyric number="6">
+          <text>nan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>对</text>
+        </lyric>
+        <lyric number="2">
+          <text>对</text>
+        </lyric>
+        <lyric number="3">
+          <text>对</text>
+        </lyric>
+        <lyric number="4">
+          <text>对</text>
+        </lyric>
+        <lyric number="5">
+          <text>七</text>
+        </lyric>
+        <lyric number="6">
+          <text>七</text>
+        </lyric>
+        <lyric number="7">
+          <text>天</text>
+        </lyric>
+        <lyric number="8">
+          <text>下</text>
+        </lyric>
+        <lyric number="9">
+          <text>nan</text>
+        </lyric>
+        <lyric number="10">
+          <text>天</text>
+        </lyric>
+        <lyric number="11">
+          <text>[未击中:八]</text>
+        </lyric>
+        <lyric number="12">
+          <text>[未击中:八][未击中:亻]</text>
+        </lyric>
+        <lyric number="13">
+          <text>十</text>
+        </lyric>
+        <lyric number="14">
+          <text>武</text>
+        </lyric>
+        <lyric number="15">
+          <text>武</text>
+        </lyric>
+        <lyric number="16">
+          <text>后</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>鸳</text>
+        </lyric>
+        <lyric number="2">
+          <text>鸳</text>
+        </lyric>
+        <lyric number="3">
+          <text>鸳</text>
+        </lyric>
+        <lyric number="4">
+          <text>鸳</text>
+        </lyric>
+        <lyric number="5">
+          <text>字</text>
+        </lyric>
+        <lyric number="6">
+          <text>姐</text>
+        </lyric>
+        <lyric number="7">
+          <text>上</text>
+        </lyric>
+        <lyric number="8">
+          <text>凡</text>
+        </lyric>
+        <lyric number="9">
+          <text>字</text>
+        </lyric>
+        <lyric number="10">
+          <text>上</text>
+        </lyric>
+        <lyric number="11">
+          <text>角</text>
+        </lyric>
+        <lyric number="12">
+          <text>仙</text>
+        </lyric>
+        <lyric number="13">
+          <text>字</text>
+        </lyric>
+        <lyric number="14">
+          <text>吉</text>
+        </lyric>
+        <lyric number="15">
+          <text>吉</text>
+        </lyric>
+        <lyric number="16">
+          <text>来</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>鸯</text>
+        </lyric>
+        <lyric number="2">
+          <text>鸯</text>
+        </lyric>
+        <lyric number="3">
+          <text>鸯</text>
+        </lyric>
+        <lyric number="4">
+          <text>鸯</text>
+        </lyric>
+        <lyric number="5">
+          <text>写</text>
+        </lyric>
+        <lyric number="6">
+          <text>下</text>
+        </lyric>
+        <lyric number="7">
+          <text>有</text>
+        </lyric>
+        <lyric number="8">
+          <text>匹</text>
+        </lyric>
+        <lyric number="9">
+          <text>写</text>
+        </lyric>
+        <lyric number="10">
+          <text>[未击中:八]nan</text>
+        </lyric>
+        <lyric number="11">
+          <text>楼</text>
+        </lyric>
+        <lyric number="12">
+          <text>过</text>
+        </lyric>
+        <lyric number="13">
+          <text>写</text>
+        </lyric>
+        <lyric number="14">
+          <text>当</text>
+        </lyric>
+        <lyric number="15">
+          <text>上</text>
+        </lyric>
+        <lyric number="16">
+          <text>遇</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>来</text>
+        </lyric>
+        <lyric number="2">
+          <text>凡</text>
+        </lyric>
+        <lyric number="3">
+          <text>个[未击中:凹]</text>
+        </lyric>
+        <lyric number="4">
+          <text>配</text>
+        </lyric>
+        <lyric number="5">
+          <text>来</text>
+        </lyric>
+        <lyric number="6">
+          <text>仙</text>
+        </lyric>
+        <lyric number="7">
+          <text>台</text>
+        </lyric>
+        <lyric number="8">
+          <text>海</text>
+        </lyric>
+        <lyric number="9">
+          <text>来</text>
+        </lyric>
+        <lyric number="10">
+          <text>作</text>
+        </lyric>
+        <lyric number="11">
+          <text>街</text>
+        </lyric>
+        <lyric number="12">
+          <text>着</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2</duration>
+        <type>eighth</type>
+        <lyric number="1">
+          <text>对</text>
+        </lyric>
+        <lyric number="2">
+          <text>对</text>
+        </lyric>
+        <lyric number="3">
+          <text>对</text>
+        </lyric>
+        <lyric number="4">
+          <text>对</text>
+        </lyric>
+        <lyric number="5">
+          <text>是</text>
+        </lyric>
+        <lyric number="6">
+          <text>敬双</text>
+        </lyric>
+        <lyric number="7">
+          <text>姓崔</text>
+        </lyric>
+        <lyric number="8">
+          <text>两边</text>
+        </lyric>
+        <lyric number="9">
+          <text>下凡</text>
+        </lyric>
+        <lyric number="10">
+          <text>好饮</text>
+        </lyric>
+        <lyric number="11">
+          <text>插金</text>
+        </lyric>
+        <lyric number="12">
+          <text>一</text>
+        </lyric>
+        <lyric number="13">
+          <text>卖</text>
+        </lyric>
+        <lyric number="14">
+          <text>担</text>
+        </lyric>
+        <lyric number="15">
+          <text>姜</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>凤</text>
+        </lyric>
+        <lyric number="2">
+          <text>凤</text>
+        </lyric>
+        <lyric number="3">
+          <text>凤</text>
+        </lyric>
+        <lyric number="4">
+          <text>凤</text>
+        </lyric>
+        <lyric number="5">
+          <text>七</text>
+        </lyric>
+        <lyric number="6">
+          <text>亲</text>
+        </lyric>
+        <lyric number="7">
+          <text>姐</text>
+        </lyric>
+        <lyric number="8">
+          <text>人</text>
+        </lyric>
+        <lyric number="9">
+          <text>开</text>
+        </lyric>
+        <lyric number="10">
+          <text>来</text>
+        </lyric>
+        <lyric number="11">
+          <text>酒</text>
+        </lyric>
+        <lyric number="12">
+          <text>钗</text>
+        </lyric>
+        <lyric number="13">
+          <text>横</text>
+        </lyric>
+        <lyric number="14">
+          <text>柴</text>
+        </lyric>
+        <lyric number="15">
+          <text>柴</text>
+        </lyric>
+        <lyric number="16">
+          <text>太</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <dot />
+        <lyric number="1">
+          <text>星</text>
+        </lyric>
+        <lyric number="2">
+          <text>一</text>
+        </lyric>
+        <lyric number="3">
+          <text>郎</text>
+        </lyric>
+        <lyric number="4">
+          <text>卖</text>
+        </lyric>
+        <lyric number="5">
+          <text>公nan</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>3</duration>
+        <type>eighth</type>
+        <dot />
+        <lyric number="1">
+          <text>凰</text>
+        </lyric>
+        <lyric number="2">
+          <text>凰</text>
+        </lyric>
+        <lyric number="3">
+          <text>凰</text>
+        </lyric>
+        <lyric number="4">
+          <text>凰</text>
+        </lyric>
+        <lyric number="5">
+          <text>直长</text>
+        </lyric>
+        <lyric number="6">
+          <text>nan</text>
+        </lyric>
+        <lyric number="7">
+          <text>nan十</text>
+        </lyric>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1</duration>
+        <type>16th</type>
+        <lyric number="1">
+          <text>遇</text>
+        </lyric>
+      </note>
+    </measure>
+    <measure number="10">
+      <attributes>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+      </attributes>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>12</duration>
+        <type>half</type>
+        <lyric number="1">
+          <text>啰</text>
+        </lyric>
+        <lyric number="2">
+          <text>啰</text>
+        </lyric>
+        <lyric number="3">
+          <text>啰</text>
+        </lyric>
+        <lyric number="4">
+          <text>啰</text>
+        </lyric>
+        <lyric number="5">
+          <text>文王</text>
+        </lyric>
+      </note>
+      <note>
+        <rest />
+        <duration>4</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+  </part>
+</score-partwise>
