@@ -2,7 +2,7 @@
 
 This is an archive version. Check latest version at [Anthology-of-Chinese-Folk-Songs](https://github.com/m-july/Anthology-of-Chinese-Folk-Songs)
 
-This repository is part of the paper “The Renaissance of Expert Systems: Optical Recognition of Printed Chinese Jianpu Musical Scores with Lyrics” (CSMT 2025, accepted). The OMR pipeline used to build this dataset is at [Renaissance of Expert Systems Jianpu OMR Pipeline (v251103)](https://github.com/m-july/Renaissance-of-Expert-Systems-Jianpu-OMR-Pipeline-v251103).
+This repository is part of the paper “The Renaissance of Expert Systems: Optical Recognition of Printed Chinese Jianpu Musical Scores with Lyrics” (CSMT 2025 accepted, [arXiv: 2512.14758](https://arxiv.org/abs/2512.14758)). The OMR pipeline used to build this dataset is at [Renaissance of Expert Systems Jianpu OMR Pipeline (v251103)](https://github.com/m-july/Renaissance-of-Expert-Systems-Jianpu-OMR-Pipeline-v251103).
 
 ## Content
 
